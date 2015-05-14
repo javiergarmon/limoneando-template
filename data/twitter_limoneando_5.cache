@@ -1,0 +1,1 @@
+a:2:{s:5:"error";s:74:"Rate limit exceeded. Clients may not make more than 150 requests per hour.";s:7:"request";s:48:"/1/statuses/user_timeline/limoneando.rss?count=5";}
